@@ -4,7 +4,6 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        // Create a scanner for input
         Scanner scanner = new Scanner(System.in);
 
         Map<String, Set<String>> bookingSchedule = new HashMap<>();
